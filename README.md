@@ -1,9 +1,11 @@
+<!-- Recent Activities -->
+<!--START_SECTION:activity-->
 
 <!-- Github Stats -->
-<details>
-  <summary> ⚡ Github Stats </summary>
-  <img align="left" src="https://github-readme-stats-two-orcin-21.vercel.app/api?username=Xqle" />
-</details>
+<!-- <details>
+  <summary> ⚡ Github Stats </summary> -->
+<img align="left" src="https://github-readme-stats-two-orcin-21.vercel.app/api?username=Xqle" />
+<!-- </details> -->
 
 <!--
 ## Hi there 👋
