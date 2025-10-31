@@ -1,5 +1,11 @@
 
 <!--START_SECTION:activity-->
+1. ❌ Assigned PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
+2. ❌ Reopened PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
+3. ❌ Closed PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
+4. 💪 Opened PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
+5. 💪 Opened PR [#1](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
+<!--END_SECTION:activity-->
 
 <!-- Github Stats -->
 <!-- <details>
