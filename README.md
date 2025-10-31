@@ -2,11 +2,11 @@
 ### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
-2. ❌ Reopened PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
-3. ❌ Closed PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
-4. 💪 Opened PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
-5. 💪 Opened PR [#1](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
+1. 🗣 Commented on [#1737](https://github.com/QwenLM/Qwen3-VL/issues/1737#issuecomment-3474354540) in [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
+2. 🗣 Commented on [#1739](https://github.com/QwenLM/Qwen3-VL/issues/1739#issuecomment-3474342717) in [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
+3. ❌ Assigned PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
+4. ❌ Reopened PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
+5. ❌ Closed PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
 <!--END_SECTION:activity-->
 
 <!-- Github Stats -->
