@@ -1,3 +1,4 @@
+### ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
 1. ❌ Assigned PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
