@@ -1,6 +1,12 @@
-## Hi there 👋
+
+<!-- Github Stats -->
+<details>
+  <summary> ⚡ Github Stats </summary>
+  <img align="left" src="https://github-readme-stats-two-orcin-21.vercel.app/api?username=Xqle" />
+</details>
 
 <!--
+## Hi there 👋
 **Xqle/Xqle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
