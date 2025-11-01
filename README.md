@@ -1,13 +1,14 @@
 # <p align="center"> **👋 Hello, I'm Qile 👋** </p>
-### ⚡ Recent Activities
 
-<!--START_SECTION:activity-->
+### ⚡ Recent Activities  <img align="right" width="384.327272727" height="215.563636364" alt="小人冰箱贴_纯白_无水印" src="https://github.com/user-attachments/assets/34064ad0-ee58-4495-baea-7edc06a1cd9a" />
+<!--START_SECTION:activity-->   
 1. 🗣 Commented on [#1737](https://github.com/QwenLM/Qwen3-VL/issues/1737#issuecomment-3474354540) in [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
 2. 🗣 Commented on [#1739](https://github.com/QwenLM/Qwen3-VL/issues/1739#issuecomment-3474342717) in [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
 3. ❌ Assigned PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
 4. ❌ Reopened PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
 5. ❌ Closed PR [#2](undefined) in [Xqle/Xqle](https://github.com/Xqle/Xqle)
 <!--END_SECTION:activity-->
+
 
 <!-- Github Stats -->
 <!-- <details>
