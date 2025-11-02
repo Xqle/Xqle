@@ -1,6 +1,6 @@
 # <p align="center"> **👋 Hello, I'm Qile 👋** </p>
 
-### ⚡ Recent Activities  <img align="right" width="290.25" height="214.92" alt="冰箱贴_透明_无水印" src="https://github.com/user-attachments/assets/0d40fb79-2968-471d-bf3c-9aeb56d65e6d" />
+### ⚡ Recent Activities  <img align="right" width="290.25" height="214.92" alt="冰箱贴" src="https://github.com/user-attachments/assets/0d40fb79-2968-471d-bf3c-9aeb56d65e6d" />
 <!--START_SECTION:activity-->   
 1. 🗣 Commented on [#1737](https://github.com/QwenLM/Qwen3-VL/issues/1737#issuecomment-3474354540) in [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
 2. 🗣 Commented on [#1739](https://github.com/QwenLM/Qwen3-VL/issues/1739#issuecomment-3474342717) in [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
