@@ -2,11 +2,11 @@
 
 ### ⚡ Recent Activities  <img align="right" width="290.25" height="214.92" alt="冰箱贴" src="https://github.com/user-attachments/assets/0d40fb79-2968-471d-bf3c-9aeb56d65e6d" />
 <!--START_SECTION:activity-->   
-1. 🗣 Commented on [#42009](https://github.com/huggingface/transformers/pull/42009#issuecomment-3491808643) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. 🗣 Commented on [#1737](https://github.com/QwenLM/Qwen3-VL/issues/1737#issuecomment-3489398193) in [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
-3. 🗣 Commented on [#1760](https://github.com/QwenLM/Qwen3-VL/issues/1760#issuecomment-3489061687) in [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
-4. 💪 Opened PR [#42009](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
-5. 🗣 Commented on [#1758](https://github.com/QwenLM/Qwen3-VL/issues/1758#issuecomment-3484114613) in [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
+1. 🗣 Commented on [#42009](https://github.com/huggingface/transformers/pull/42009#issuecomment-3500512922) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. 🗣 Commented on [#42009](https://github.com/huggingface/transformers/pull/42009#issuecomment-3491808643) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. 🗣 Commented on [#1737](https://github.com/QwenLM/Qwen3-VL/issues/1737#issuecomment-3489398193) in [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
+4. 🗣 Commented on [#1760](https://github.com/QwenLM/Qwen3-VL/issues/1760#issuecomment-3489061687) in [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
+5. 💪 Opened PR [#42009](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--END_SECTION:activity-->
 
 
