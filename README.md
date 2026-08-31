@@ -1,14 +1,15 @@
+
+
 # <p align="center"> **👋 Hello, I'm Qile 👋** </p>
 
 ### ⚡ Recent Activities  <img align="right" width="290.25" height="214.92" alt="冰箱贴" src="https://github.com/user-attachments/assets/0d40fb79-2968-471d-bf3c-9aeb56d65e6d" />
 <!--START_SECTION:activity-->   
-1. ❌ Merged PR [#42009](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. ❌ Merged PR [#42009](https://github.com/huggingface/transformers/pull/42009) in [huggingface/transformers](https://github.com/huggingface/transformers)
 2. ❌ Merged PR [#42108](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
 3. 💪 Opened PR [#42108](undefined) in [huggingface/transformers](https://github.com/huggingface/transformers)
 4. 🗣 Commented on [#42009](https://github.com/huggingface/transformers/pull/42009#issuecomment-3500512922) in [huggingface/transformers](https://github.com/huggingface/transformers)
 5. 🗣 Commented on [#42009](https://github.com/huggingface/transformers/pull/42009#issuecomment-3491808643) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--END_SECTION:activity-->
-
 
 
 
